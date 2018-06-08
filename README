@@ -1,6 +1,14 @@
-                                =======
-                                explain
-                                =======
+                   _       _
+    _____  ___ __ | | __ _(_)_ __
+   / _ \ \/ / '_ \| |/ _` | | '_ \
+  |  __/>  <| |_) | | (_| | | | | |
+   \___/_/\_\ .__/|_|\__,_|_|_| |_|
+            |_|
+  https://uninformativ.de/git/explain
+  https://uninformativ.de/bugs.html
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
 explain reads a simple markup language and allows you to annotate
